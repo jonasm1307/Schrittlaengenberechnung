@@ -8,6 +8,7 @@ Bei "Code für Projektarbeit GPS"
 
 --> bei "datgps" Pfad zu Locationdaten einfügen
 
+
 Bei "Code für Projektarbeit Integration"
 
 --> bei "dat" Pfad zu Accelerometerdaten einfügen
